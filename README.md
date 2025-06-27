@@ -1,4 +1,8 @@
-# rugpp
+<p align="center">
+  <img src="https://i.ibb.co/Xf0jnfqY/hg.png" alt="rugpp logo" width="250"/>
+</p>
+
+<h1 align="center">rugpp</h1>
 
 **rugpp** is a sleek, draggable Catppuccin‑themed dashboard userscript for [Rugplay](https://rugplay.com). It runs in your browser (via Tampermonkey or similar) and surfaces:
 
