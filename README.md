@@ -123,4 +123,4 @@ refreshMs: 30000
 Contributions are welcome — especially UI/UX improvements, performance tweaks, and new feature ideas!
 
 ---
-Happy trading! 🐱☕️rugpp is cool right??
+Happy trading! 🐱☕ - rugpp is cool right??
