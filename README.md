@@ -123,5 +123,4 @@ refreshMs: 30000
 Contributions are welcome — especially UI/UX improvements, performance tweaks, and new feature ideas!
 
 ---
-
-✨ Enjoy using **rugpp** – a modern, extensible crypto UI for Rugplay users.
+Happy trading! 🐱☕️rugpp is cool right??
